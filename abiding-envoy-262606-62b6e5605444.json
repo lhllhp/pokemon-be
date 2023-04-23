@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "abiding-envoy-262606",
+  "private_key_id": "62b6e5605444bd846953f217c73ad1d25a0f352f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCTtF7S9ZwRDLTj\nv6JSF2Zult3NHw9qtAlD97wsaR9Nrx2ymClHnFQ6hvbs/p8at0y5llTExfe928au\nQoCFqaempodyfUx1WD6aMxqFX6DEJImlXMzxAvhY+JFpYBcVziYz/hNEed7A7hMu\na8zvw/Gn5bC096NliWE5V2E6lbKjta7ZjhdPUC+nkTAgFtYJtUxmlu/pvsrhWdJD\nl0pH0fuftLJLwNZlnrC7DZkHptdPcTk8d732oRS2p78SfGmwPvmM+px/952zOkID\n/awzUvlBZ9ctuqhg51k7/oRkNVCwK0KzrqmIkoc+XOdFTlhOIXfxS2dX7P2zXNjU\nPB99Sa6HAgMBAAECgf87N6D7UDdZKjNbp5A95PVDj8R0YS4S9qbu3tgeO9iW2EFV\nnsLuCjNdoL6korabixA3tN8wM3ROZEL9yPGPjdJMLKZPtNU4ZSi0HiYPgXXy/uGk\n9jKonHD1DCdu6V1AvdoHie0YWH4krPFg2ajb7Cdq4yAMs5kUp+g7iW+3mNh6bGOm\nXdMdF4uhm0e3VzI8LvYYVxEI2DFsIsl0LuCFupNV4PsIFYGt41pSJRWxoE3n708t\nWPRSPunw6qhjwRgNZDU+gICxFiziAdbPoDIUeDxfN0Pwm2J7DCYzL8dbKb0457Ef\nUPNP+/i0BigWWATEvAhcNj76cJ+uouS5gnp3/7ECgYEAzHhYkbyBGXBvgKP1Vf5B\nLWfqnxDzJ1XiT21KzXsMyaRPdjqEgh+G/5IdMEB7gMCL7s0lec3yqGuCXCjK75X5\nzxDL/JeU37Vjy54KfMXwL+qnbXDTUZX0Yr7hvP05/gosKVk3Lh+cTwnnO+4mEZQc\nYRrs2axJelv1yVjTsKir1vkCgYEAuO24/I2TKxYZvlNa3AePEWAakP1MF22fWa9f\nY69eddi0CQuh7l+jSiXiPwFCBIIOBa1mWHxOYAlbrEvBRuLdzJzgkvQRN5r5Kx4L\nbkpk8lJzUNxJZGfqXNDaKvO2J0kCfNP78u0XwCCETd5piuy/SvryPg+C8l7qugEX\nbjQ/kX8CgYEAq4Ov19/l8y7reV8PZuj2R15J4tBXBwH16mZlPuQfH+3icew4Ruan\nWS55qYYNkzzwpIoVC42EJV65ZREa2cpWWClg0ytbyCPh6GVTqsJm7erKMvVXbbJ5\n43L27I8F3GEwFicuMFR3y50lCJKGAGzbOWFamGT65dbJ3/HQ8Pkr3BECgYEAj6hk\nfxUAEYWOpBKez7SziFzu5llPJhgLpSEeahMOv1+DpE88ETCMagp58lXo0hWyDOkC\nS5TtUZ+Tboo+7/FHOi9YKfCd+2NRUxR47smuF6zDVjp6bRxorIe2I43FoEkQPKZ0\n3+cc/yyDevZfaQO3Kuk9C8cDA4OGts4oRH0kMMMCgYEAiZxI4xuPjwvCzxZcPA2U\nr5cZkbvm44cOBaa/YSLuCz9xIChWcXXd9TIE+5WqmPhltCtw5hWEXQao6IZG2pm5\nvUCXHDKqU7iNswE/tKD21Sua4A6u6NYS7RUzfGMWS5snj05mnGioD4Hjrk2UVov3\nA8CSu0g0+IgdQOYwMSqGk10=\n-----END PRIVATE KEY-----\n",
+  "client_email": "pokemon-be@abiding-envoy-262606.iam.gserviceaccount.com",
+  "client_id": "100677061919821950824",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/pokemon-be%40abiding-envoy-262606.iam.gserviceaccount.com"
+}
